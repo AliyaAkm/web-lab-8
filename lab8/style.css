@@ -1,0 +1,13 @@
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.line-break {
+    display: block;
+    margin-bottom: 10px;
+}
